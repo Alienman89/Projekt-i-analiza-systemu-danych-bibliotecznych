@@ -56,13 +56,13 @@ Przepływ danych: **API GUS BDL ➔ Pliki Parquet ➔ Baza PostgreSQL ➔ Power 
 
 ## 📁 Struktura Repozytorium
 
-- **docs/praca_inż.pdf** - Pełna treść pracy dyplomowej inżynierskiej
-- **docs/Instrukcja_uruchomienia.pdf** - Instrukcja wdrożenia i uruchomienia projektu
+- **documents/praca_inż.pdf** - Pełna treść pracy dyplomowej inżynierskiej
+- **documents/Instrukcja_uruchomienia.pdf** - Instrukcja wdrożenia i uruchomienia projektu
+- **documents/raport.pbix** - Plik raportu analitycznego Power BI
 - **main_parquet.py** - Moduł sterujący / orkiestrator pipeline'u ETL
 - **api_parquet.py** - Moduł ekstrakcji danych z API GUS BDL
 - **etl_parquet.py** - Moduł transformacji i ładowania danych do PostgreSQL
 - **config.ini** - Plik konfiguracyjny (baza danych, ścieżki)
-- **raport.pbix** - Plik raportu analitycznego Power BI
 - **requirements.txt** - Zależności bibliotek Pythona
 - **README.md** - Opis projektu
 
