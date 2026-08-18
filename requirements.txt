@@ -1,0 +1,7 @@
+pandas
+requests
+psycopg2
+pyarrow
+tqdm
+scikit-learn
+numpy
