@@ -12,7 +12,7 @@
 ## 📄 Pełna Dokumentacja Pracy
 
 Pełny tekst pracy inżynierskiej w formacie PDF znajduje się w repozytorium:  
-👉 **[Pobierz/Zobacz Treść Pracy (PDF)](./documents/praca_inż.pdf)**
+👉 **Pobierz/Zobacz Treść Pracy (PDF)([./documents/praca_inż.pdf])**
 
 ---
 
