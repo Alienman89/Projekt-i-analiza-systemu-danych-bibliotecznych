@@ -42,6 +42,11 @@ Architektura logiczna składa się z 4 głównych warstw:
 
 Przepływ danych: **API GUS BDL ➔ Pliki Parquet ➔ Baza PostgreSQL ➔ Power BI**.
 
+![Architektura logiczna systemu](logic.png)
+
+![Diagram ERD wartstwy analitycznej](erd.png)
+
+
 ---
 
 ## 🛠 Technologie i Narzędzia
